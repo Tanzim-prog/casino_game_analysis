@@ -9,7 +9,7 @@ import os
 # 1. File Configuration
 # ==========================
 
-input_path = r"D:\Project\Casino Game Project\github_files\Casino_Gaming_Data_new.csv"
+input_path = r"Casino_Gaming_Data_new.csv"
 output_path = os.path.join(os.path.dirname(input_path), "casino_game_dataset.csv")
 
 # ==========================
